@@ -6,13 +6,14 @@ No terminal, navegue até a pasta desejada para clonar esse repositório.
 
 
 ## Instalando dependências
-Você pode instalar todas as dependencias do projeto com o comando:
+Para podermos instalar todas as dependencias do projeto, precisamos rodar o comando:
 ### `npm install` ou `yarn install`
 
+Ainda, é necessário instalar as depêndencias do client:
+### `cd client` `npm install` ou `cd client` `yarn install`
 
 ## Rodando a aplicação
-As soon as you type:
-Assim que digitar:
+Na pasta raíz do projeto, assim que você digitar:
 ### `npm run dev` ou `yarn run dev`
 Seu navegador vai abrir com a seguinte URL: http://localhost:4000
 
