@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "concurrently": "^4.1.0",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "global": "^4.3.2",
     "morgan": "^1.9.1",
     "node-dev": "^3.1.3"
